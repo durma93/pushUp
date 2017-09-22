@@ -12,10 +12,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void TestUpload(){
-        int i = 1+1;
+        int i = 15;
 
-        int ii = 2+2;
+        int ii = 2255;
 
         int iii= i+ii;
+
+        boolean foo= false;
     }
 }
