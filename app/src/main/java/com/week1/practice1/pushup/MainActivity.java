@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void TestUpload(){
-        int i = 1;
+        int i = 15;
 
         int ii = 5;
 
@@ -21,6 +21,4 @@ public class MainActivity extends AppCompatActivity {
         String test="test";
         boolean True=true;
     }
-
-
 }
