@@ -11,14 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void TestUpload(){
-        int i = 15;
+    private void pullRequest(){
+        int i=1;
+        int j=3;
 
-        int ii = 5;
-
-        int iii= i+ii;
-
-        String test="test";
-        boolean True=true;
+        String text = Integer.toString(j);
+        String Pera = "Pera Zdera";
     }
 }
